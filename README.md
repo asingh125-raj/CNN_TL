@@ -1,5 +1,5 @@
 # CNN_TL
-Tea leaf Diseases Detection 
+## Tea leaf Diseases Detection 
 Solution pipeline has three main stages. Acquisition of tea leaf data onground with a controllable UAV (or other data acquisition hardware initially),
 processing of the acquired data with computer vision and remote sensing techniques, and the Artificial Intelligence driven decision algorithm
 development based on deep learning standards, which gives the desired quality control. Each stage has iterative evaluations, thus, this is a cyclic flow
